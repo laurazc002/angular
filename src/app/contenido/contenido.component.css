@@ -1,0 +1,6 @@
+.caja{
+    width: 40px;
+    height: 40px;
+    background-color: rgb(191, 142, 78);
+    display: inline-block;
+}
